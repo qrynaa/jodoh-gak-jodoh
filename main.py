@@ -1,4 +1,4 @@
-rimport random
+import random
 import datetime
 
 print("Pilih metode: ")
